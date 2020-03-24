@@ -1,0 +1,11 @@
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.exe
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.deps.json
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.runtimeconfig.json
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.runtimeconfig.dev.json
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.dll
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.pdb
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.csprojAssemblyReference.cache
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.AssemblyInfoInputs.cache
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.AssemblyInfo.cs
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.dll
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt2\Homework 3-26-2020 pt2\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt2.pdb

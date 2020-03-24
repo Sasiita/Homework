@@ -1,0 +1,10 @@
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.exe
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.deps.json
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.runtimeconfig.json
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.runtimeconfig.dev.json
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.dll
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\bin\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.pdb
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.AssemblyInfoInputs.cache
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.AssemblyInfo.cs
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.dll
+C:\Users\USERNAME\source\repos\Homework 3-26-2020 pt3\Homework 3-26-2020 pt3\obj\Debug\netcoreapp3.1\Homework 3-26-2020 pt3.pdb
