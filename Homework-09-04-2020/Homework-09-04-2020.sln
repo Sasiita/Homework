@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phonebook", "Phonebook\phonebook.csproj", "{D7413A45-C480-484B-ABD2-EA2F3A8E33BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mining", "mining\mining.csproj", "{EF949789-FED2-4F07-B836-2EED05128C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7413A45-C480-484B-ABD2-EA2F3A8E33BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7413A45-C480-484B-ABD2-EA2F3A8E33BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7413A45-C480-484B-ABD2-EA2F3A8E33BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7413A45-C480-484B-ABD2-EA2F3A8E33BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF949789-FED2-4F07-B836-2EED05128C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF949789-FED2-4F07-B836-2EED05128C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF949789-FED2-4F07-B836-2EED05128C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF949789-FED2-4F07-B836-2EED05128C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E5982F-4855-4A30-909C-5E5136BA235A}
+	EndGlobalSection
+EndGlobal
